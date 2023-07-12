@@ -1,0 +1,1 @@
+# HFT-Spread_TEMA
