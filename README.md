@@ -14,8 +14,8 @@ which is highly responsive and better-suited for short-term trading.<br/>
 
 # Instructions
 
-In order to run this algorithm, you would need install both python and the Alpaca Python SDK. To start executing trades,
-you will need to change the config.py to include your API_KEY and SECRET_API_KEY, which you can find in the Alpaca Dashboard
+In order to run either algorithm, you would need to install both python and the Alpaca Python SDK. <br /> 
+Executing trades requires you to change the config.py to include your API_KEY and SECRET_API_KEY.<br />
 
 Finally, run either of the following commands in your command line to run hft or spread_tema.
 
@@ -26,7 +26,7 @@ Finally, run either of the following commands in your command line to run hft or
 
 
 You can monitor the trades either in the command line, or using the Alpaca Dashboard. <br /> 
-I included a few screenshots to show some of the trades the spread_tema has taken while I run the algorithm locally.
+Below are a few examples of the trades the spread_tema algorithm has taken while I ran the algorithm locally.
 
 # Command Line 
 <img width="762" alt="Screenshot 2023-07-15 at 11 29 49 AM" src="https://github.com/mbouzekri/HFT-Spread_TEMA/assets/106405634/6b76cc6b-7724-4a7b-9e15-124d29180a91">
