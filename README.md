@@ -5,7 +5,7 @@ This project aims to emulate High Frequency Trading Algorithms in a simple way u
 It aims to capture slight moves in the bid/ask spread as they happen. It is only intended for high volume <br/>
 stocks with frequent moves that are less than or equal to 0.02 cents. <br/> 
 
-This projects includes two different versions of a HFT algorithm, hft.py and spread_tema.py. <br/>
+This projects includes two different versions of a HFT Algorithm, hft.py and spread_tema.py. <br/>
 HFT makes significantly more trades and is solely based on bid/ask spread and bid/ask volume. <br/>
 
 In order to take it a step further, I include some technical Analysis into this Alogrithm. <br/> 
