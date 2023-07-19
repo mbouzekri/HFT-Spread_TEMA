@@ -8,8 +8,8 @@ stocks with frequent moves that are less than or equal to 0.02 cents. <br/>
 This projects includes two different versions of a HFT Algorithm, hft.py and spread_tema.py. <br/>
 HFT makes significantly more trades and is solely based on bid/ask spread and bid/ask volume. <br/>
 
-In order to stabilize and improve the performance of the trading algorithm, I included more advanced trigger conditions for the trading. <br/> 
-Spread_tema adds a a technical analysis layer by using the Triple Exponential Moving Average(TEMA),<br/>
+In order to stabilize and improve the performance of the trading algorithm, I included more advanced trigger <br/>
+conditions. Spread_tema adds a a technical analysis layer by using the Triple Exponential Moving Average(TEMA),<br/>
 which is highly responsive and better-suited for short-term trading.<br/> 
 
 # Instructions
