@@ -1,8 +1,8 @@
 # HFT-Spread_TEMA
 📈 **High Frequency Trading Algorithm enhanced with Technical Indicators**
 
-This project aims to implement a High Frequency Trading Algorithm in a simple way using Alpaca Trading API. <br/> 
-It aims to capture slight moves in the bid/ask spread as they happen. It is only intended for high volume <br/>
+This project aims to implement a High Frequency Trading Algorithm in a simple way using Alpaca Trading API.
+It aims to capture slight moves in the bid/ask spread as they happen. It is only intended for high volume
 stocks with frequent moves that are less than or equal to 0.02 cents. <br/> 
 
 This projects includes two different versions of a HFT Algorithm, hft.py and spread_tema.py. <br/>
